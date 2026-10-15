@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+
+    <!-- MainActivity inputs -->
+    <string name="hint_hours">Number of hours worked</string>
+    <string name="hint_rate">Hourly rate</string>
+    <string name="hint_tax">Tax rate (e.g. 0.13 for 13%)</string>
+
+    <!-- Buttons -->
+    <string name="btn_calculate">Calculate</string>
+    <string name="btn_about">About</string>
+
+    <!-- Results (%1$.2f = number with 2 decimals) -->
+    <string name="result_pay">Pay: $%1$.2f</string>
+    <string name="result_overtime">Overtime Pay: $%1$.2f</string>
+    <string name="result_total">Total Pay: $%1$.2f</string>
+    <string name="result_tax">Tax: $%1$.2f</string>
+
+    <!-- Error message -->
+    <string name="error_invalid_input">Please enter valid numbers in all fields</string>
+
+    <!-- AboutActivity -->
+    <string name="title_about">About</string>
+    <string name="about_name">Name: Zuheb Mohamud</string>
+    <string name="about_student_id">Student ID: 101555019</string>
+</resources>
